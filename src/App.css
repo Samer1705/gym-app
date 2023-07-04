@@ -1,0 +1,23 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+:root{
+    --main: rgb(184, 0, 0);
+}
+header{
+    background-image: url(assets/images/bg2.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.text-main{
+    color: var(--main)!important;
+}
+.bg-catalog{
+    background-image: url(assets/images/bg3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+}
